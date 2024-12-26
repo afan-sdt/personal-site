@@ -12,7 +12,7 @@ export default function HomePage() {
             window.open('https://afansdt.wordpress.com/', '_blank');
         }
         else if (buttonName === "Resume") {
-            window.open('src/assets/Affaan Saadat Resume old.pdf', '_blank');
+            window.open('/Affaan Saadat Resume old.pdf', '_blank');
         }
         else if (buttonName === "LinkedIn") {
             window.open('https://www.linkedin.com/in/affaan-saadat/', '_blank');
