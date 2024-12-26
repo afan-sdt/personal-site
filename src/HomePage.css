@@ -1,0 +1,23 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+img:hover {
+    cursor: pointer;
+    border-color: #646cff;
+}
