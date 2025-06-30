@@ -40,7 +40,12 @@ export default function HomePage() {
         <h2>About Me</h2>
         <p> I'm a software engineer with nearly 3 years of experience in Full Stack Web Development.
              Most Recently, I worked at Docusign on their CLM AI extension. </p>
-        <h2>Experience</h2>
+             <p>Currently, I'm working on a startup called <a href='https://backpockit.ai'>Backpockit.ai</a>. It's a voice AI agent tailored for tradespeople to pick up the phone while they work with their hands.</p> 
+       <h2>Entrepeneurship</h2>
+       <ul> <a href='https://backpockit.ai'>Backpockit.ai</a> - Co-Founder, CEO</ul>
+       <ul><a href="https://takhatcafe.com">Takhat Cafe - Family-owned Desi Ice Cream shop in Westland MI</a> - Co-Founder, COO</ul>
+       <ul> Renotia.com, a platform for homeowners to find and book contractors (pivoted to backpockit.ai)</ul>
+       <h2>Experience</h2>
         <ul>
             <li>Docusign - Software Engineer - CLM AI Extension (2022-2024)</li>
             <li>Docusign - Software Engineer Intern (2021)</li>
