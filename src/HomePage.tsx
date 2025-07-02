@@ -75,5 +75,5 @@ export default function HomePage() {
             </ul>
         </ul>
     </div>
-  </div>;
+  </div>
 }
